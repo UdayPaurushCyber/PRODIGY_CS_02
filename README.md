@@ -10,7 +10,7 @@ This tool provides a simple yet effective way to encrypt and decrypt images usin
 - **Decryption**: Decrypt previously encrypted images to restore them to their original state.
 - **Command-Line Interface**: Easy-to-use CLI for interacting with the tool.
 
-![Example image](https://github.com/kur1an/SCT_CS_02/blob/main/image.jpeg)
+![Example image](https://github.com/kur1an/PRODIGY_CS_02/blob/main/image.jpeg)
 ## How It Works
 
 ### Encryption Process
@@ -29,8 +29,8 @@ This tool provides a simple yet effective way to encrypt and decrypt images usin
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/kur1an/SCT_CS_2.git
-   cd SCT_CS_2
+   git clone https://github.com/kur1an/PRODIGY_CS_02.git
+   cd PRODIGY_CS_02
    ```
 
 2. **Install Dependencies**:
@@ -66,7 +66,7 @@ Enter the input image path: input_image.jpg
 Enter the output image path: encrypted_image.jpg
 Enter the encryption key: 12345
 ```
-![Example image](https://github.com/kur1an/SCT_CS_02/blob/main/encrypted_image.jpeg)
+![Example image](https://github.com/kur1an/PRODIGY_CS_02/blob/main/encrypted_image.jpeg)
 
 Decrypt an image:
 
@@ -77,5 +77,5 @@ Enter the input image path: encrypted_image.jpg
 Enter the output image path: decrypted_image.jpg
 Enter the decryption key: 12345
 ```
-![Example image](https://github.com/kur1an/SCT_CS_02/blob/main/decrypted_image.jpeg)
+![Example image](https://github.com/kur1an/PRODIGY_CS_02/blob/main/decrypted_image.jpeg)
 
