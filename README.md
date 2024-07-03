@@ -77,5 +77,5 @@ Enter the input image path: encrypted_image.jpg
 Enter the output image path: decrypted_image.jpg
 Enter the decryption key: 12345
 ```
-![Example image](https://github.com/kur1an/PRODIGY_CS_02/blob/main/decrypted_image.jpeg)
+![Example image](https://github.com/UdayPaurushCyber/PRODIGY_CS_02/blob/main/decrypted_image.jpeg)
 
