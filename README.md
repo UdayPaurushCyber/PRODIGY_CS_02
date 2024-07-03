@@ -10,7 +10,7 @@ This tool provides a simple yet effective way to encrypt and decrypt images usin
 - **Decryption**: Decrypt previously encrypted images to restore them to their original state.
 - **Command-Line Interface**: Easy-to-use CLI for interacting with the tool.
 
-![Example image](https://github.com/kur1an/PRODIGY_CS_02/blob/main/image.jpeg)
+![Example image](https://github.com/UdayPaurushCyber/PRODIGY_CS_02/blob/main/image.jpeg))
 ## How It Works
 
 ### Encryption Process
